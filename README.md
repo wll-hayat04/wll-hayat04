@@ -102,7 +102,7 @@ hayat = {
           <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/>
         </a>
       </p>
-      <p>Category-level retail demand forecasting system predicting sales X days ahead, Y days in advance. SARIMA modeling with walk-forward validation on UCI Online Retail dataset.</p>
+      <p>Retail sales forecasting pipeline built during a professional internship. Predicts demand per product category up to 30 days ahead using SARIMA — trained on 1 year of real UK transaction data and validated with walk-forward cross-validation to simulate production conditions.</p>
       <p><b>Stack:</b> Python · statsmodels · SARIMA · pandas · Jupyter</p>
     </td>
     <td width="50%">
