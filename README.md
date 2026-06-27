@@ -158,9 +158,7 @@ hayat = {
     <td width="50%">
       <h3 align="center">🚗 AI Emergency Vehicle Detection</h3>
       <p align="center">
-        <a href="https://github.com/wll-hayat04">
-          <img src="https://img.shields.io/badge/PFA-2025--2026-7c3aed?style=flat-square"/>
-        </a>
+        <img src="https://img.shields.io/badge/PFA-2025--2026-7c3aed?style=flat-square"/>
       </p>
       <p>YOLO model + SUMO traffic simulation to study traffic light priority strategies with AI uncertainty management. Academic project at EMI.</p>
       <p><b>Stack:</b> Python · YOLO · SUMO · Computer Vision</p>
@@ -188,26 +186,6 @@ hayat = {
       <p><b>Stack:</b> Python · scikit-learn · BERTopic · Streamlit · gensim</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏭 OCP Group — Data Internship</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Professional-OCP_Group-green?style=flat-square"/>
-      </p>
-      <p>Digitalization of industrial laboratory quality monitoring at OCP Group (world's largest phosphate producer). Database design + VBA/Python automation pipeline.</p>
-      <p><b>Stack:</b> Python · VBA · SQL · Excel · Database Design</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📊 Dashboard ANSYS</h3>
-      <p align="center">
-        <a href="https://github.com/wll-hayat04/Dashboard_ANSYS">
-          <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/>
-        </a>
-      </p>
-      <p>Data visualization dashboard for ANSYS simulation results — interactive charts and KPIs for engineering analysis.</p>
-      <p><b>Stack:</b> Python · Streamlit · pandas · Plotly</p>
-    </td>
-  </tr>
 </table>
 
 ---
@@ -216,7 +194,7 @@ hayat = {
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wll-hayat04&layout=compact&theme=tokyonight&hide_border=true)
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wll-hayat04&layout=compact&theme=tokyonight&hide_border=true"/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wll-hayat04&theme=tokyonight&hide_border=true)
 
