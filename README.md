@@ -216,12 +216,7 @@ hayat = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=wll-hayat04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wll-hayat04&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wll-hayat04&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wll-hayat04&theme=tokyonight&hide_border=true)
 
