@@ -44,8 +44,8 @@ hayat = {
 |---|---|
 | 🏛️ **EMI — École Mohammadia d'Ingénieurs** | Engineering Cycle · Scientific Modeling & CS · 2024–2026 |
 | 📐 **Prépa MP/MPSI** | Lycée Ibn Abdoun, Khouribga · Physics & Mathematics · 2022–2024 |
-| 🏢 **Miningful** | Remote Intern · Demand Forecasting System · Summer 2026 |
 | 🏭 **OCP Group** | Junior Data Scientist · Industrial Lab Digitalization · 2024–2025 |
+| 🏢 **Miningful** | Remote Intern · Demand Forecasting System · Summer 2026 |
 
 ---
 
